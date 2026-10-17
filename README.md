@@ -21,6 +21,7 @@ Maintained by [Noxkeys](https://noxkeys.com/), an online store for genuine softw
 - [Common Office activation errors](#common-office-activation-errors)
 - [How to activate Office legally](#how-to-activate-office-legally)
 - [FAQ](#faq)
+- [Related guides](#related-guides)
 - [References](#references)
 
 ---
@@ -211,6 +212,18 @@ Office LTSC 2024 is the volume-licensed version for organisations and uses the K
 
 **Does Office 2024 work on Windows 10?**
 Yes, Office 2024 installs on both Windows 10 and Windows 11. Microsoft recommends Windows 11 for the best experience.
+
+---
+
+## Related guides
+
+More free references maintained by [Noxkeys](https://noxkeys.com/):
+
+- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
