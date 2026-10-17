@@ -219,11 +219,11 @@ Yes, Office 2024 installs on both Windows 10 and Windows 11. Microsoft recommend
 
 More free references maintained by [Noxkeys](https://noxkeys.com/):
 
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
-- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
-- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
-- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
-- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/noxkeys/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/noxkeys/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Microsoft Office Activation Errors and Fixes](https://github.com/noxkeys/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
@@ -232,7 +232,7 @@ More free references maintained by [Noxkeys](https://noxkeys.com/):
 - [Microsoft Learn – GVLKs for KMS and Active Directory-based activation of Office](https://learn.microsoft.com/en-us/office/volume-license-activation/gvlks)
 - [Microsoft Learn – Tools to manage volume activation of Office (ospp.vbs)](https://learn.microsoft.com/en-us/office/volume-license-activation/tools-to-manage-volume-activation-of-office)
 - [Microsoft Support – Activate Office](https://support.microsoft.com/en-us/office/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e)
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys) – companion reference for Windows editions
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys) – companion reference for Windows editions
 - [Noxkeys – Genuine Office & Windows licences](https://noxkeys.com/)
 
 ---
